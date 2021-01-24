@@ -9,4 +9,5 @@ Run :
 pip3 install jupyter sklearn matplotlib numpy pandas plotly
 ```
 
-Metrics are in the `/metrics` folder save for one (`metrics_GC_gene.tsv`) which is not used in the first part of the script.
+Metrics are in the `/metrics` folder save for two (`metrics_GC_gene.tsv` and `metrics_GC_exons.tsv`) which are not used in the first part of the script.
+A R script is provided: it was used to generate plots on the data.
